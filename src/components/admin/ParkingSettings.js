@@ -22,6 +22,7 @@ import {
   DialogContentText,
   DialogActions,
   FormControl,
+  FormControlLabel,
   InputLabel,
   Select,
   MenuItem,
@@ -30,7 +31,8 @@ import {
   Snackbar,
   Slider,
   Tabs,
-  Tab
+  Tab,
+  Chip
 } from '@mui/material';
 import { 
   Add as AddIcon,
